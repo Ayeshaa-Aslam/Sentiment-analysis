@@ -20,8 +20,7 @@ Results
 - Logistic Regression Accuracy: 87.14%
 - Naive Bayes Accuracy: 88.73%
 
-
-
+~ Text Classification
 
 
 
